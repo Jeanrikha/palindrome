@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672598574 source:d:\praktikum_strukdat\tubes_final\palindrome.cpp
+	"palindrome.h"
+
+1672631882 d:\praktikum_strukdat\tubes_final\palindrome.h
+	<iostream>
+
+1672631220 source:d:\praktikum_strukdat\tubes_final\main.cpp
+	"palindrome.h"
+
